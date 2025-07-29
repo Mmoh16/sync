@@ -1,5 +1,0 @@
-# sync
-
-Hhi
-
-Djekc
